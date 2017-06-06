@@ -27,6 +27,3 @@
 
 ### Complex non-linear mapping discovered unsupervised (many-to-one joint mapping)
 <img src='docs/figs/pose_squat.mov.gif' height='270'>
-
-### Imitation Failures (shoulder joint)
-<img src='docs/figs/pose_failures.mov.gif' height='270'>
